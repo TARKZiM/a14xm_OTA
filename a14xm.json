@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": ...,
+      "filename": "placeholder.zip",
+      "id": "placeholder",
+      "romtype": "UNOFFICIAL",
+      "size": placeholder,
+      "url": "https://github.com/a14xm-dev/a14xm_OTA/releases/download/...",
+      "version": "21.0"
+    }
+  ]
+}
